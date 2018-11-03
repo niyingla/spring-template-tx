@@ -21,7 +21,7 @@ import javax.sql.DataSource;
  * @create: 2018-11-01 23:18
  **/
 @Configuration
-public class DBConfiguration {
+public class  DBConfiguration {
 
     @Bean
     @Primary
